@@ -18,18 +18,12 @@ body {
     background-color: var(--background-color);
 }
 
-svg{
-    max-width: 20px;
-    display: inline;
-}
-
-.sidebar p{
-    display: inline;
+svg {
 }
 
 .container {
     display: grid;
-    grid-template-columns: 200px 1fr;
+    grid-template-columns: 250px 1fr;
 }
 
 .sidebar {
@@ -75,7 +69,7 @@ svg{
     box-shadow: 5px 5px 8px -5px rgba(0, 0, 0, 0.75);
     border-radius: 10px;
     overflow: hidden;
-
+    padding: 30px;
 }
 
 .project-card {
@@ -123,11 +117,28 @@ svg{
 }
 
 
+svg {
+    fill: white;
+    max-width: 20px;
+}
 
-
-li {
+.sidebar li,
+.logo {
     list-style-type: none;
     color: white;
     font-size: 20px;
     margin-bottom: 10px;
+
+    display: grid;
+    grid-template-columns: 30% 60%;
+    align-items: center;
+}
+
+li svg,
+.logo svg {
+    justify-self: center;
+}
+
+.logo svg{
+    max-width: 40px;
 }
