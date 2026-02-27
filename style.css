@@ -179,7 +179,7 @@ body {
 .announcements {
     box-sizing: border-box;
     width: 1/5vw;
-    height: 400px;
+    height: 370px;
     background-color: white;
     box-shadow: 5px 5px 8px -5px rgba(0, 0, 0, 0.75);
     border-radius: 10px;
@@ -223,7 +223,7 @@ body {
 
 .project-card {
     width: 27vw;
-    height: 200px;
+    height: 210px;
     background-color: white;
     box-shadow: 5px 5px 8px -5px rgba(0, 0, 0, 0.75);
     border-radius: 10px;
