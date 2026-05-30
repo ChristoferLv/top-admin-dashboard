@@ -40,6 +40,10 @@ Um painel administrativo (dashboard) moderno contendo:
 - HTML5
 - CSS3 (Grid, Custom Properties, @font-face)
 
+## Visualization
+
+<img width="1900" height="1075" alt="admin dashboard screenshot" src="https://github.com/user-attachments/assets/f2ff1cc2-8ce3-4776-b471-f27b4c353dd4" />
+
 ---
 
 Projeto desenvolvido seguindo: [The Odin Project - Admin Dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
