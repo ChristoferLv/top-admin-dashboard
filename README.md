@@ -1,44 +1,44 @@
 # Admin Dashboard
 
-Dashboard administrativo desenvolvido como parte da trilha Intermediate HTML and CSS do [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard), com foco em **CSS Grid** para construção de layouts complexos.
+Administrative dashboard developed as part of the Intermediate HTML and CSS path of [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css), with a focus on **CSS Grid** for building complex layouts.
 
-## Objetivo do Projeto
+## Project Objective
 
-O objetivo principal era praticar:
-- Construção de layouts com **CSS Grid**
-- Grid areas e posicionamento de elementos na grid
-- Uso de SVG icons inline
-- Tipografia customizada com @font-face
-- Variáveis CSS (custom properties)
+The main objective was to practice:
+- Building layouts with **CSS Grid**
+- Grid areas and element positioning in the grid
+- Using inline SVG icons
+- Custom typography with `@font-face`
+- CSS variables (custom properties)
 
-## O que é?
+## What is it?
 
-Um painel administrativo (dashboard) moderno contendo:
-- **Sidebar** com menu de navegação e ícones SVG
-- **Header** com barra de busca, informações do usuário e botões de ação
-- **Seção de projetos** com cards organizados em grid
-- **Announcements** com notificações e atualizações
-- **Trending** com usuários e projetos em destaque
+A modern administrative dashboard containing:
+- **Sidebar** with navigation menu and SVG icons
+- **Header** with search bar, user information, and action buttons
+- **Projects section** with cards arranged in a grid
+- **Announcements** with notifications and updates
+- **Trending** with featured users and projects
 
-## Como usar
+## How to use
 
-1. Abra o arquivo `index.html` em seu navegador
+1. Open the `index.html` file in your browser
 
-## Funcionalidades
+## Features
 
-- **Layout Grid Completo**: Toda a estrutura da página construída com CSS Grid
-- **Sidebar Fixa**: Menu lateral com ícones SVG e navegação organizada em seções
-- **Header Dinâmico**: Duas linhas com busca, notificações, avatar e botões de ação
-- **Cards de Projetos**: Grid de cards com borda lateral colorida e botões de interação
-- **Painel Lateral**: Announcements e Trending em coluna separada
-- **Ícones SVG Inline**: Ícones vetoriais integrados diretamente no HTML
-- **Variáveis CSS**: Cores e estilos centralizados com custom properties
-- **Tipografia Customizada**: Fonte Roboto carregada via @font-face
+- **Complete Grid Layout**: The entire page structure is built with CSS Grid
+- **Fixed Sidebar**: Side menu with SVG icons and organized navigation sections
+- **Dynamic Header**: Two rows with search, notifications, avatar, and action buttons
+- **Project Cards**: Grid of cards with a colored side border and interaction buttons
+- **Side Panel**: Announcements and Trending arranged in a separate column
+- **Inline SVG Icons**: Vector icons integrated directly in the HTML
+- **CSS Variables**: Colors and styles centralized with custom properties
+- **Custom Typography**: Roboto font loaded via `@font-face`
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
-- CSS3 (Grid, Custom Properties, @font-face)
+- CSS3 (Grid, Custom Properties, `@font-face`)
 
 ## Visualization
 
@@ -46,6 +46,6 @@ Um painel administrativo (dashboard) moderno contendo:
 
 ---
 
-Projeto desenvolvido seguindo: [The Odin Project - Admin Dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
+Project developed following: [The Odin Project - Admin Dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
 
-📍 **Repositório principal com todos os projetos**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
+📍 **Main repository with all projects**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
